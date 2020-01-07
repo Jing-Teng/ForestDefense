@@ -34,4 +34,4 @@
 
 設置砲擊單位：1.在技能欄長按<滑鼠右鍵> 2.滑鼠拖曳到紅框位置 3.放開<滑鼠右鍵>
 
-![image](https://github.com/Jing-Teng/ForestDefense/blob/master/battle.png)
+![image](https://github.com/Jing-Teng/ForestDefense/blob/master/battle.JPG)
